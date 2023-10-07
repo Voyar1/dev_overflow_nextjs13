@@ -3,7 +3,7 @@ import React from 'react';
 import { Inter, Space_Grotesk } from 'next/font/google';
 import type { Metadata } from 'next';
 
-import './globas.css';
+import './globals.css';
 import { ThemeProvider } from '@/context/ThemePrivder';
 
 const inter = Inter({
